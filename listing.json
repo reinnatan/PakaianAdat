@@ -1,0 +1,142 @@
+{
+    "base_url":"",
+    "items":[
+        {
+            "province":"Sulawesi Barat",
+            "image_url":"PakaianAdatSulawesiBarat.png"
+        },
+        {
+            "province":"Sumatera Utara",
+            "image_url":"PakaianAdatSumateraUtara.jpeg"
+        },
+        {
+            "province":"Lampung",
+            "image_url":"PakaianAdatLampung.jpeg"
+        
+        },
+        {
+            "province":"Jambi",
+            "image_url":"PakaianAdatJambi.jpg"
+        
+        },
+        {
+            "province":"Riau",
+            "image_url":"PakaianAdatRiau.jpg"
+        
+        },  
+        {
+            "province":"Sulawesi Tenggara",
+            "image_url":"PakaianAdatSulawesiTenggara.png"
+        
+        },
+        {
+            "province":"Maluku Utara",
+            "image_url":"PakaianAdatMalukuUtara.png"
+        
+        },
+        {
+            "province":"Banten",
+            "image_url":"PakaianAdatBanten.png"
+        
+        },
+        {
+            "province":"Sulawesi Utara",
+            "image_url":"PakaianAdatSulawesiUtara.png"
+        },
+        {
+            "province":"Bali",
+            "image_url":"PakaianAdatBali.png"
+        
+        },
+        {
+            "province":"Aceh",
+            "image_url":"PakaianAdatAceh.png"
+        
+        },
+        {
+            "province":"Bangka Belitung",
+            "image_url":"PakaianAdatBangkaBelitung.png"
+        
+        },
+        {
+            "province":"Yogyakarta",
+            "image_url":"PakaianAdatJogjakarta.png"
+        
+        },
+        {
+            "province":"Kalimantan Selatan",
+            "image_url":"PakaianAdatKalimantanSelatan.jpg"
+        
+        },
+        {
+            "province":"Kalimantan Tengah",
+            "image_url":"PakaianAdatKalimantanTengah.png"
+        
+        },
+        {
+            "province":"Kalimantan Timur",
+            "image_url":"PakaianAdatKalimantanTimur.png"
+        
+        },
+        {
+            "province":"NTT",
+            "image_url":"PakaianAdatNTT.jpg"
+        },
+        {
+            "province":"Sulawesi Tengah",
+            "image_url":"PakaianAdatSulawesiTengah.png"
+        },
+        {
+            "province":"NTB",
+            "image_url":"PakaianAdatNTB.jpg"
+        },
+        {
+            "province":"Kalimantan Barat",
+            "image_url":"PakaianAdatKalimantanBarat.png"
+        },
+        {
+            "province":"Sulawesi Selatan",
+            "image_url":"PakaianAdatSulawesiSelatan.png"
+        },
+        {
+            "province":"Papua",
+            "image_url":"PakaianAdatPapua.png"
+        },
+        {
+            "province":"Riau",
+            "image_url":"PakaianAdatKepulauanRiau.jpg"
+        },
+        {
+            "province":"Jawa Timur",
+            "image_url":"PakaianAdatJawaTimur.png"
+        },
+        {
+            "province":"Jawa Barat",
+            "image_url":"PakaianAdatJawaBarat.jpeg"
+        },
+        {
+            "province":"Bengkulu",
+            "image_url":"PakaianAdatBengkulu.jpg"
+        },
+        {
+            "province":"Jawa Tengah",
+            "image_url":"PakaianAdatJawaTengah.jpeg"
+        },
+        {
+            "province":"Sumatera Barat",
+            "image_url":"PakaianAdatSumbar.jpg"
+        },
+        {
+            "province":"Maluku",
+            "image_url":"PakaianAdatMaluku.png"
+        },
+        {
+            "province":"Kalimantan Utara",
+            "image_url":"PakaianAdatKalimantanUtara.jpg"
+        },
+        {
+            "province":"Gorontalo",
+            "image_url":"PakaianAdatGorontalo.jpg"
+        }
+    ]
+}
